@@ -1,6 +1,7 @@
 # neural_network_ICP5
 Name: Rishika Madireddy
 id: 700757971
+VIDEO LINK : 
 Given:
 Programming elements:
 1. Basics of Autoencoders
