@@ -17,4 +17,5 @@ Also, visualize the same test data before reconstruction using Matplotlib
 4. plot loss and accuracy using the history object
 
 Autoencoder: An autoencoder is a type of artificial neural network used to learn data encodings in an unsupervised manner. 
+
 denoisening autoencoder : It compresses the data (like an autoencoder), it learns to remove noise in images, which allows to perform well even when the inputs are noisy.
